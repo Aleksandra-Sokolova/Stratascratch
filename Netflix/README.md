@@ -1,10 +1,12 @@
-# Проект по анализу данных
+## Проект по анализу данных
 
-# Название: New Shows and Movies
+## Название: New Shows and Movies
 
-# Данные компании: Netflix
+## Данные компании: Netflix
 
 [Данные с сайта stratascratch](https://platform.stratascratch.com/data-projects/new-shows-and-movies)
+
+***
 
 **Цель:**
 - Проанализировать данные и выявить инсайты, которые помогут Netflix определить, какие фильмы\сериалы производить и как  развивать бизнес в разных странах.
